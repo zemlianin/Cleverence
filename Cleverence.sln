@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task2", "Task2\Task2.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task3", "Task3\Task3.csproj", "{15F4B187-8667-4D39-9647-5F197996F0CC}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task2.Tests", "Test2.Tests\Task2.Tests.csproj", "{BFD7B63F-85D1-4299-BDAB-16EF13C5E169}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task2.Tests", "Task2.Tests\Task2.Tests.csproj", "{BFD7B63F-85D1-4299-BDAB-16EF13C5E169}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3.Tests", "Task3.Test\Task3.Tests.csproj", "{F86BAC6C-17B6-4896-ADC3-F92D9D18746D}"
 EndProject
