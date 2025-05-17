@@ -15,9 +15,9 @@ namespace Task3
 
             if (args.Length != 3)
             {
-                inputPath = Path.Combine("..", "..", "..", "Logs", "input.txt");
-                outputPath = Path.Combine("..", "..", "..", "Logs", "output.txt");
-                problemPath = Path.Combine("..", "..", "..", "Logs", "problems.txt");
+                inputPath = Path.Combine("..", "..", "..", "LogsExample", "input.txt");
+                outputPath = Path.Combine("..", "..", "..", "LogsExample", "output.txt");
+                problemPath = Path.Combine("..", "..", "..", "LogsExample", "problems.txt");
             }
             else
             {

@@ -1,0 +1,8 @@
+10-03-2025	15:14:49.523	INFO	DEFAULT	Версия программы: '3.4.0.48729'
+10-03-2025	15:14:49.525	ERROR	DEFAULT	Версия программы: '3.4.0.48728'
+10-03-2025	15:14:49.533	INFO	DEFAULT	Версия программы: '3.4.5.48739'
+10-03-2025	15:14:51.5882	INFO	MobileComputer.GetDeviceId	Код устройства: '@MINDEO-M40-D-410244015546'
+10-03-2025	15:14:51.5892	ERROR	MobileComputer.GetUuid	Код устройства: '@MINDEO-M40-D-410244015546'
+10-03-2025	15:14:51.5902	WARN	MobileComputer.GetPipe	Код устройства: '@MINDEO-M40-D-410244015546'
+10-03-2025	15:14:51.5912	WARN	MobileComputer.GetFile	Код устройства: '@MINDEO-M40-D-410244015546'
+10-03-2025	15:14:51.5992	INFO	MobileComputer.GetDescriptor	Код устройства: '@MINDEO-M40-D-410244015546'
